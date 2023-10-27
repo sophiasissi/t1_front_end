@@ -5,3 +5,20 @@ h1 {
     font-size: 20px;
     text-align: center;
 }
+
+.bloco1 {
+    border-radius: 45px;    
+}
+
+.bloco2 {
+    border-radius: 45px;
+}
+
+img {
+    border-radius: 50%;
+}
+
+/* .espacamento {
+    padding-right: 55px;
+    padding-left: 55px;
+} */
